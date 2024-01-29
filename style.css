@@ -776,7 +776,8 @@ color: hsl(52, 97%, 54%);
     .about-img img{
         padding-top: 10%;
         padding-bottom: 10%;
-        padding-left: 10%;
+        padding-left: 5%;
+        padding-right: 5%;
         max-width: 400px;
         width: auto;
         border-radius: 4px;
